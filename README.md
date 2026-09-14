@@ -1,3 +1,5 @@
 # cristianokeum-tech
 Hello
-My major is AI
+I am learning AI in University
+This is for Opensource SW class
+
